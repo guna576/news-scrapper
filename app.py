@@ -25,9 +25,12 @@ def scrap(c1, c2):
     for i in range(c2):
         count += 1
         st.header("News " + str(count))
-        st.markdown("Headline : " + xl[i][0])
-        st.write("Description : ",xl[i][1])
-        st.write("Geography : ",xl[i][2])
+        if x1[i][0]:
+            st.markdown("Headline : " + xl[i][0])
+        if x1[i][1]:
+            st.write("Description : ",xl[i][1])
+        if x1[i][2]:
+            st.write("Geography : ",xl[i][2])
         #st.write("Category : ",xl[i][3])
         st.write("")
         st.write("")
