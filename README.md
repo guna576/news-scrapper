@@ -1,4 +1,4 @@
-# news-scrapper(News Galaxy)
+# News Scrapper(News Galaxy)
 
 It is bit tough to search for the interesting news in various sites and it became much more easy with this News Galaxy. 
 Here based on the user interest we categorize the news by scraping news from various websites and display it accordingly.
