@@ -8,13 +8,13 @@ Here based on the user interest we categorize the news by scraping news from var
 
 ## Demo
 - User selects the news domain.
-![Homepage ](https://github.com/guna576/news-scrapper/homepage.png)
+![Homepage ](https://github.com/guna576/news-scrapper/blob/main/homepage.png)
 
 - User selects the number of news headlines
-![Image of Yaktocat](https://github.com/guna576/news-scrapper/homepage1.png)
+![Image of Yaktocat](https://github.com/guna576/news-scrapper/blob/main/homepage1.png)
 
 - Display of the 
-![Image of Yaktocat](https://github.com/guna576/news-scrapper/demoNews.png)
+![Image of Yaktocat](https://github.com/guna576/news-scrapper/blob/main/demoNews.png)
 
 
 
