@@ -6,6 +6,16 @@ Here based on the user interest we categorize the news by scraping news from var
 + Live news get scrapped from various sources and displayed according to the user preferences.
 + Scrap data using BeautifulSoup and use data what we required.
 
+## Demo
+- User selects the news domain.
+![Homepage ](https://github.com/guna576/news-scrapper/homepage.png)
+
+- User selects the number of news headlines
+![Image of Yaktocat](https://github.com/guna576/news-scrapper/homepage1.png)
+
+- Display of the 
+![Image of Yaktocat](https://github.com/guna576/news-scrapper/demoNews.png)
+
 
 
 
